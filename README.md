@@ -57,6 +57,11 @@
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow?style=for-the-badge)
+
+
 <!--
 **AggarwalShourya/AggarwalShourya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
