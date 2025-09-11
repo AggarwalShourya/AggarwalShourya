@@ -6,9 +6,10 @@
 ## About Me
 - 🎓 Pre-final year undergrad in **Industrial Engineering** (Mechanical & Industrial Engineering Dept.) @ **IIT Roorkee**.  
 - 🤖 Passionate about **Machine Learning, Deep Learning, NLP, CV, and Large Language Models (LLMs)**.  
-- 🧩 Research interests: **LLM alignment, PPO/GRPO, agentic AI, statistical learning, and AI for social good**.  
+- 🧩 Research interests: **AI red teaming(Jailbreaking LLMs, Text-to-Image jailbreak attacks), RLHF(PPO,GRPO), agentic AI, statistical learning, and LLM Alignment**.  
 - ✍️ Love sharing knowledge via blogs to help others on their ML journey.  
 - 🏊 Outside academics: swimming, puzzles, and engaging discussions keep me active.
+- Presently researching on **Jailbreaking of Audio Language models and adversarial attacks on Autoregressive Text-to-image models and robust Watermarking techniques/algorithm.**
 
 ---
 
